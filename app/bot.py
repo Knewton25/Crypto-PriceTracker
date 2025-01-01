@@ -91,5 +91,4 @@ if __name__ == "__main__":
     args = args_parser.Parse()
 
     # Create and run bot
-    bot = PriceBot(args.config)
-    bot.Run()
+    
