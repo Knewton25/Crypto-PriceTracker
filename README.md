@@ -186,16 +186,4 @@ The messages sent by the bot on Telegram can be translated into different langua
 The XML file path is specified in the configuration file (`app_lang_file` field).\
 An example XML file in italian is provided in the folder *app/lang*.
 
-## Image Examples
 
-Example with chart and price information on different messages:
-
-<img src="https://github.com/ebellocchia/telegram_crypto_price_bot/blob/master/img/example_diff_msg.png" width="500px">
-
-Example with chart and price information on the same message:
-
-<img src="https://github.com/ebellocchia/telegram_crypto_price_bot/blob/master/img/example_same_msg.png" width="500px">
-
-# License
-
-This software is available under the MIT license.
